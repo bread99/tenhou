@@ -1,17 +1,17 @@
 {
   "ver":1.0,
   "se":{
-    "25":{"url":"https://github.com/bread99/tenhou/raw/refs/heads/main/pon.mp3"}, 
-    "26":{"url":"https://github.com/bread99/tenhou/raw/refs/heads/main/pon.mp3"}, 
-    "27":{"url":"https://github.com/bread99/tenhou/raw/refs/heads/main/kan.mp3"}, 
-    "28":{"url":"https://github.com/bread99/tenhou/raw/refs/heads/main/kan.mp3"}, 
-    "29":{"url":"https://github.com/bread99/tenhou/raw/refs/heads/main/chi.mp3"}, 
-    "30":{"url":"https://github.com/bread99/tenhou/raw/refs/heads/main/chi.mp3"},
-    "31":{"url":"https://github.com/bread99/tenhou/raw/refs/heads/main/reach.mp3"},
-    "32":{"url":"https://github.com/bread99/tenhou/raw/refs/heads/main/reach.mp3"},
-    "33":{"url":"https://github.com/bread99/tenhou/raw/refs/heads/main/ron.mp3"},
-    "34":{"url":"https://github.com/bread99/tenhou/raw/refs/heads/main/ron.mp3"},
-    "35":{"url":"https://github.com/bread99/tenhou/raw/refs/heads/main/tusmo.mp3"},
-    "36":{"url":"https://github.com/bread99/tenhou/raw/refs/heads/main/tusmo.mp3"}
+    "25":{"url":"https://raw.githubusercontent.com/bread99/tenhou/refs/heads/main/pon.mp3"}, 
+    "26":{"url":"https://raw.githubusercontent.com/bread99/tenhou/refs/heads/main/pon.mp3"}, 
+    "27":{"url":"https://raw.githubusercontent.com/bread99/tenhou/refs/heads/main/kan.mp3"}, 
+    "28":{"url":"https://raw.githubusercontent.com/bread99/tenhou/refs/heads/main/kan.mp3"}, 
+    "29":{"url":"https://raw.githubusercontent.com/bread99/tenhou/refs/heads/main/chi.mp3"}, 
+    "30":{"url":"https://raw.githubusercontent.com/bread99/tenhou/refs/heads/main/chi.mp3"},
+    "31":{"url":"https://raw.githubusercontent.com/bread99/tenhou/refs/heads/main/reach.mp3"},
+    "32":{"url":"https://raw.githubusercontent.com/bread99/tenhou/refs/heads/main/reach.mp3"},
+    "33":{"url":"https://raw.githubusercontent.com/bread99/tenhou/refs/heads/main/ron.mp3"},
+    "34":{"url":"https://raw.githubusercontent.com/bread99/tenhou/refs/heads/main/ron.mp3"},
+    "35":{"url":"https://raw.githubusercontent.com/bread99/tenhou/refs/heads/main/tusmo.mp3"},
+    "36":{"url":"https://raw.githubusercontent.com/bread99/tenhou/refs/heads/main/tusmo.mp3"}
   }
 }
